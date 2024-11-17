@@ -5,6 +5,7 @@ This project processes NYC Taxi data using Apache Spark, orchestrated by a Bash 
 ## Flow Chart
 ![NCY batch processing](https://github.com/NguyenNhat4/Spark-NYC-TAXI-Batch-Processing/blob/main/flow_chart.png)
 
-
+## Source data
+https://github.com/DataTalksClub/nyc-tlc-data/releases
 
 Special thanks to the tutorial from Alexey Grigorev: https://github.com/DataTalksClub/data-engineering-zoomcamp
