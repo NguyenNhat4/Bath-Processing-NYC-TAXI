@@ -3,7 +3,7 @@
 This project processes NYC Taxi data using Apache Spark, orchestrated by a Bash script. It involves reading raw data, processing it with Spark, and storing the results for further analysis.
 
 ## Flow Chart
-![NCY batch processing](./images/flow_chart.png)
+![NCY batch processing](https://github.com/NguyenNhat4/Spark-NYC-TAXI-Batch-Processing/blob/main/flow_chart.png)
 
 
 
